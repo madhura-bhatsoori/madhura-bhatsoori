@@ -15,12 +15,10 @@
 
 ## 💼 Work Experience
 
-### Software Engineer
-**Tata Consultancy Services** | Jan 2019 - Jan 2023
-
 ### Teaching Assistant
 **San Jose State University** | Jan 2024 - Present
-
+### Software Engineer
+**Tata Consultancy Services** | Jan 2019 - Jan 2023
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhurakbhatsoori)
