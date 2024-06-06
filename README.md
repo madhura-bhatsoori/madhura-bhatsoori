@@ -3,7 +3,6 @@
 ## 🚀 About Me
 👋 Hi there! I'm Madhura Bhatsoori, an aspiring data scientist. I'm a doing my masters in data science and analytics at San Jose state university, and I'll be graduating in December 2024. I have a passion for uncovering insights from data and applying data-driven approaches to solve real-world problems.
 
-## 📌 Recent Work
 
 ## 🛠 Skills and Tools
 
